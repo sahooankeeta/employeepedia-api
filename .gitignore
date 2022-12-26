@@ -1,6 +1,4 @@
 /node_modules
-client/node_modules
 .env
 config.env
-client/build
 /package-lock.json
